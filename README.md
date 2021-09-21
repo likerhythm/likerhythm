@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-3766AB?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-3766AB?style=flat-square&logo=html&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-3766AB?style=flat-square&logo=html5&logoColor=white"/>
