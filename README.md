@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<center>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=likerhythm&&show_icons=true&theme=github_dark)
 <p>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=python&logoColor=white"/>
@@ -24,5 +25,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  </center>
 
 
