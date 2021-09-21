@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/HTML-3766AB?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-3766AB?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-3766AB?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
