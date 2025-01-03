@@ -13,7 +13,7 @@
 
   <div>    
     <a href="https://github.com/likerhythm/github-programmers-rank">
-      <img src="https://raw.githubusercontent.com/likerhythm/github-programmers-rank/master/lib/result.svg" width="45%">
+      <img src="https://raw.githubusercontent.com/likerhythm/github-programmers-rank/master/lib/result.svg">
     </a>
   </div>
 </div>
