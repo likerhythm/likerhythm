@@ -9,12 +9,12 @@
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cjm9591" alt="Solved.ac Profile">
     </a>
   </div>
-
+<!--
   <br>
-
   <div>    
     <a href="https://github.com/likerhythm/github-programmers-rank">
       <img src="https://raw.githubusercontent.com/likerhythm/github-programmers-rank/master/lib/result.svg">
     </a>
   </div>
+-->
 </div>
