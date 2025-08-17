@@ -14,7 +14,7 @@
 <br>
 
 ### 🎓 Education
-- **Dongguk Univ** – Computer Science (2019.3 ~ now)  
+- **Dongguk Univ** – Computer Science & Engineering (2019.3 ~ now)  
 - **LGU+ Ureca** – Backend (2025.1 ~ 2025.8)
 <br>
 
