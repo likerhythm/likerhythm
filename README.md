@@ -4,23 +4,23 @@
 - **[Tistory](https://jeongmini00.tistory.com/)** (2024.2 ~ now)<br>
 - **[Velog](https://velog.io/@likerhythm/)** (2025.2 ~ 2025.6)
 
-<br>
 
-### 💻 Portfolio
+
+### Portfolio
 > 🚧 준비중입니다.
 <!--👉 [Click here to view my portfolio](https://likerhythm.github.io) -->
-<br>
 
-### 🎓 Education
-- **Dongguk Univ** – Computer Science & Engineering (2019.3 ~ now)  
-- **LGU+ Ureca** – Backend (2025.1 ~ 2025.8)
-<br>
 
-### 🏆 Awards
-- **LGU+ Ureca** – Final Project 1st&nbsp;&nbsp;&nbsp;**[GitHub](https://github.com/Ureka-High-Five)**
-<br>
+### Education
+- Dongguk Univ – Computer Science & Engineering (2019.3 ~ now)  
+- LGU+ Ureca – Backend (2025.1 ~ 2025.8)
 
-### 📜 Certificates
+
+### Awards
+- LGU+ Ureca – Final Project 1st&nbsp;&nbsp;&nbsp;**[GitHub](https://github.com/Ureka-High-Five)**
+
+
+### Certificates
 - SQLD
 - 정보처리기사
 
