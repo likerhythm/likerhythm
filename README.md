@@ -1,22 +1,11 @@
-## Jeongmin Choi
+### Jeongmin Choi
+> 🚧 준비중입니다.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/likerhythm)
-<br>
 <br>
 
 ### 💻 Portfolio
 > 🚧 준비중입니다.
 <!--👉 [Click here to view my portfolio](https://likerhythm.github.io) -->
-<br>
-
-
-### 🛠 Skills
-
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-<br>
 <br>
 
 ### ✏️ Blog
