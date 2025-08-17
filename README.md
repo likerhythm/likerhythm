@@ -9,8 +9,8 @@
 <br>
 
 ### ✏️ Blog
-- [Tistory](https://jeongmini00.tistory.com/) (2024.2 ~ now)<br>
-- [Velog](https://velog.io/@likerhythm/) (2025.2 ~ 2025.6)
+- **[Tistory](https://jeongmini00.tistory.com/)** (2024.2 ~ now)<br>
+- **[Velog](https://velog.io/@likerhythm/)** (2025.2 ~ 2025.6)
 <br>
 
 ### 🎓 Education
