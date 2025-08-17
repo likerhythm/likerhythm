@@ -1,16 +1,14 @@
 ### Jeongmin Choi
 > 🚧 준비중입니다.
 
+- **[Tistory](https://jeongmini00.tistory.com/)** (2024.2 ~ now)<br>
+- **[Velog](https://velog.io/@likerhythm/)** (2025.2 ~ 2025.6)
+
 <br>
 
 ### 💻 Portfolio
 > 🚧 준비중입니다.
 <!--👉 [Click here to view my portfolio](https://likerhythm.github.io) -->
-<br>
-
-### ✏️ Blog
-- **[Tistory](https://jeongmini00.tistory.com/)** (2024.2 ~ now)<br>
-- **[Velog](https://velog.io/@likerhythm/)** (2025.2 ~ 2025.6)
 <br>
 
 ### 🎓 Education
