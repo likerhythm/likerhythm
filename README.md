@@ -17,7 +17,7 @@
 
 
 ### Awards
-- LGU+ Ureca – Final Project 1st&nbsp;&nbsp;&nbsp;**[GitHub](https://github.com/Ureka-High-Five)**
+- LGU+ Ureca – Final Project 1st place&nbsp;&nbsp;&nbsp;**[GitHub](https://github.com/Ureka-High-Five)**
 
 
 ### Certificates
