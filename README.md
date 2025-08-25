@@ -1,14 +1,15 @@
-### Jeongmin Choi
-> 🚧 준비중입니다.
-
+### Blog
 - **[Tistory](https://jeongmini00.tistory.com/)** (2024.2 ~ now)<br>
 - **[Velog](https://velog.io/@likerhythm/)** (2025.2 ~ 2025.6)
-
 
 
 ### Portfolio
 > 🚧 준비중입니다.
 <!--👉 [Click here to view my portfolio](https://likerhythm.github.io) -->
+
+### Main Stack
+- Spring Boot
+- MySQL
 
 
 ### Education
@@ -17,7 +18,7 @@
 
 
 ### Awards
-- LGU+ Ureca – Final Project 1st place&nbsp;&nbsp;&nbsp;**[GitHub](https://github.com/Ureka-High-Five)**
+- LGU+ Ureca – Final Project 최우수상&nbsp;&nbsp;**[GitHub](https://github.com/Ureka-High-Five)**
 
 
 ### Certificates
