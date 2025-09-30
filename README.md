@@ -6,7 +6,7 @@
 <!--👉 [Click here to view my portfolio](https://likerhythm.github.io) -->
 
 ### Main Stack
-- java
+- Java
 - Spring Boot
 - MySQL
 
