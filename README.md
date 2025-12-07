@@ -1,5 +1,7 @@
+<!-- 
 ### Blog
 - **[Tistory](https://jeongmini00.tistory.com/)** (2024.2 ~ now)<br>
+-->
 
 ### Portfolio
 > 🚧 준비중입니다.
