@@ -1,10 +1,7 @@
-<!-- 
-### Blog
-- **[Tistory](https://jeongmini00.tistory.com/)** (2024.2 ~ now)<br>
--->
 
-### Portfolio
-> 🚧 준비중입니다.
+
+<!-- ### Portfolio
+> 🚧 준비중입니다. -->
 <!--👉 [Click here to view my portfolio](https://likerhythm.github.io) -->
 
 ### Main Stack
@@ -14,7 +11,7 @@
 
 
 ### Education
-- Dongguk Univ – Computer Science & Engineering (2019.3 ~ now)  
+- Dongguk Univ – Computer Science & Engineering (2019.3 ~ 2026.02)  
 - LGU+ Ureca – Backend (2025.1 ~ 2025.8)
 
 
