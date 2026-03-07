@@ -4,10 +4,11 @@
 > 🚧 준비중입니다. -->
 <!--👉 [Click here to view my portfolio](https://likerhythm.github.io) -->
 
-### Main Stack
-- Java
-- Spring Boot
-- MySQL
+### Core Tech
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql)](https://skillicons.dev)
+
+### Experienced with
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,redis,mongodb,postgresql,prometheus,grafana,docker,aws)](https://skillicons.dev)
 
 
 ### Education
