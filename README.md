@@ -35,3 +35,6 @@
   </div>
   <br>
 </div>
+
+<!-- 백준 카드 -->
+<!--[![solved.ac stats](https://solvedac-readme-stats.vercel.app/api?handle=cjm9591&streak=true)](https://github.com/kookjd7759/solvedac-readme-stats)-->
