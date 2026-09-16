@@ -1,29 +1,15 @@
+### Main Stack
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,redis)](https://skillicons.dev)
 
+### Open Source Contribution
 
-<!-- ### Portfolio
-> 🚧 준비중입니다. -->
-<!--👉 [Click here to view my portfolio](https://likerhythm.github.io) -->
-
-### Core Tech
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql)](https://skillicons.dev)
-
-### Experienced with
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,redis,mongodb,postgresql,prometheus,grafana,docker,aws)](https://skillicons.dev)
-
+| Project | Contribution | Type | Issue | PR |
+|---------|-------------|------|--------|----|
+| [redisson](https://github.com/redisson/redisson) | fixed permit loss in RedissonRateLimiter | bug fix | [#7342](https://github.com/redisson/redisson/issues/7342) | [#7343](https://github.com/redisson/redisson/pull/7343) |
 
 ### Education
 - Dongguk Univ – Computer Science & Engineering (2019.3 ~ 2026.02)  
 - LGU+ Ureca – Backend (2025.1 ~ 2025.8)
-
-
-### Awards
-- LGU+ Ureca – Final Project 최우수상&nbsp;&nbsp;**[GitHub](https://github.com/Ureka-High-Five)**
-
-
-### Certificates
-- SQLD (2025.04.04)
-- 정보처리기사  (2025.06.13)
-- TOEIC Speaking IM3 (2025.09.19)
 
 <!-- 백준 티어 -->
 <br>
