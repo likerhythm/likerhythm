@@ -5,7 +5,7 @@
 
 | Project | Contribution | Type | Issue | PR |
 |---------|-------------|------|--------|----|
-| [redisson](https://github.com/redisson/redisson) | fixed permit loss in RedissonRateLimiter | bug fix | [#7342](https://github.com/redisson/redisson/issues/7342) | [#7343](https://github.com/redisson/redisson/pull/7343) |
+| [redisson](https://github.com/redisson/redisson) | fixed permit loss in `RedissonRateLimiter` | bug fix | [#7342](https://github.com/redisson/redisson/issues/7342) | [#7343](https://github.com/redisson/redisson/pull/7343) |
 
 ### Education
 - Dongguk Univ – Computer Science & Engineering (2019.3 ~ 2026.02)  
