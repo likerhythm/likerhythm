@@ -5,8 +5,8 @@
 
 | Repository | Contribution | Type | Issue | PR |
 |---------|-------------|------|--------|----|
-| [redisson](https://github.com/redisson/redisson) | fixed periodic permit loss when `RedissonRateLimiter.tryAcquire()` and `release()` are used together | bug fix | [#7342](https://github.com/redisson/redisson/issues/7342) | [#7343](https://github.com/redisson/redisson/pull/7343) |
-| [redisson](https://github.com/redisson/redisson) | fixed `RedissonRateLimiter.availablePermits()` exceeding `rate` when `release()` is used | bug fix | [#7329](https://github.com/redisson/redisson/issues/7329) | [#7334 (resolved by another contributor)](https://github.com/redisson/redisson/pull/7334) |
+| [redisson](https://github.com/redisson/redisson) | fixed periodic permit loss when `RedissonRateLimiter.tryAcquire()` and `release()` are used together | bug&nbsp;fix | [#7342](https://github.com/redisson/redisson/issues/7342) | [#7343](https://github.com/redisson/redisson/pull/7343) |
+| [redisson](https://github.com/redisson/redisson) | fixed `RedissonRateLimiter.availablePermits()` exceeding `rate` when `release()` is used | bug&nbsp;fix | [#7329](https://github.com/redisson/redisson/issues/7329) | [#7334 (resolved by another contributor)](https://github.com/redisson/redisson/pull/7334) |
 
 ### Education
 - Dongguk Univ – Computer Science & Engineering (2019.3 ~ 2026.02)  
