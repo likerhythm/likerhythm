@@ -5,10 +5,10 @@
 
 **[Redisson](https://github.com/redisson/redisson)**
 
--  ![Type](https://img.shields.io/badge/bug_fix-red) Fixed periodic permit loss in `RedissonRateLimiter` when combining `tryAcquire()` and `release()`
-  [![Issue](https://img.shields.io/badge/issue-%237342-blue)](https://github.com/redisson/redisson/issues/7342) [![PR](https://img.shields.io/badge/PR-%237343_merged-brightgreen)](https://github.com/redisson/redisson/pull/7343)
-- ![Type](https://img.shields.io/badge/bug_report-orange) Reported `availablePermits()` exceeding `rate` after `release()` in `RedissonRateLimiter`
-   [![Issue](https://img.shields.io/badge/issue-%237329-blue)](https://github.com/redisson/redisson/issues/7329) [![PR](https://img.shields.io/badge/PR-%237334_resolved-lightgrey)](https://github.com/redisson/redisson/pull/7334)
+-  Fixed periodic permit loss in `RedissonRateLimiter` when combining `tryAcquire()` and `release()`<br>
+  ![Type](https://img.shields.io/badge/bug_fix-red) [![Issue](https://img.shields.io/badge/issue-%237342-blue)](https://github.com/redisson/redisson/issues/7342) [![PR](https://img.shields.io/badge/PR-%237343_merged-brightgreen)](https://github.com/redisson/redisson/pull/7343)
+- Reported `availablePermits()` exceeding `rate` after `release()` in `RedissonRateLimiter`<br>
+  ![Type](https://img.shields.io/badge/bug_report-orange) [![Issue](https://img.shields.io/badge/issue-%237329-blue)](https://github.com/redisson/redisson/issues/7329) [![PR](https://img.shields.io/badge/PR-%237334_resolved-lightgrey)](https://github.com/redisson/redisson/pull/7334)
   
 ### Education
 - Dongguk Univ – Computer Science & Engineering (2019.3 ~ 2026.02)  
