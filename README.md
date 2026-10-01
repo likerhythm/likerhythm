@@ -5,7 +5,7 @@
 
 **[Redisson](https://github.com/redisson/redisson)**
 
-- `RedissonRateLimiter`에서 `release()` 호출 후 허용되는 요청 수가 실제 허용 가능한 양에 미달하거나 초과하던 버그 해결
+- `RedissonRateLimiter.release()` 호출 후 허용되는 요청 수가 실제 허용 가능한 양에 미달 또는 초과하는 버그 해결
 
   [![bug](https://img.shields.io/github/issues/detail/label/redisson/redisson/7342)](https://github.com/redisson/redisson/issues/7342)
   [![Issue #7342](https://img.shields.io/github/issues/detail/state/redisson/redisson/7342)](https://github.com/redisson/redisson/issues/7342)
