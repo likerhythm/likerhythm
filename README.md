@@ -5,13 +5,15 @@
 
 **[Redisson](https://github.com/redisson/redisson)**
 
--  Fixed periodic permit loss in `RedissonRateLimiter` when combining `tryAcquire()` and `release()`<br>
-  ![Type](https://img.shields.io/badge/bug_fix-red) [![Issue](https://img.shields.io/badge/issue-%237342-blue)](https://github.com/redisson/redisson/issues/7342) [![PR](https://img.shields.io/badge/PR-%237343_merged-brightgreen)](https://github.com/redisson/redisson/pull/7343)
-- Reported `availablePermits()` exceeding `rate` after `release()` in `RedissonRateLimiter`<br>
-  ![Type](https://img.shields.io/badge/bug_report-orange) [![Issue](https://img.shields.io/badge/issue-%237329-blue)](https://github.com/redisson/redisson/issues/7329) [![PR](https://img.shields.io/badge/PR-%237334_resolved-lightgrey)](https://github.com/redisson/redisson/pull/7334)
+- `RedissonRateLimiter.release()` 로 인해 허용 요청 수가 설정한 rate에 미달하거나 초과하던 버그 해결
+
+  [![bug](https://img.shields.io/github/issues/detail/label/redisson/redisson/7342)](https://github.com/redisson/redisson/issues/7342)
+  [![Issue #7342](https://img.shields.io/github/issues/detail/state/redisson/redisson/7342)](https://github.com/redisson/redisson/issues/7342)
+  [![PR #7343](https://img.shields.io/github/pulls/detail/state/redisson/redisson/7343)](https://github.com/redisson/redisson/pull/7343)
+  [![milestone](https://img.shields.io/github/issues/detail/milestone/redisson/redisson/7342)](https://github.com/redisson/redisson/milestone/212)
   
 ### Education
-- Dongguk Univ – Computer Science & Engineering (2019.3 ~ 2026.02)  
+- 동국대학교 – Computer Science & Engineering (2019.3 ~ 2026.02)  
 - LGU+ Ureca – Backend (2025.1 ~ 2025.8)
 
 <!-- 백준 티어 -->
