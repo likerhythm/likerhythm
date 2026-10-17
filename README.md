@@ -7,10 +7,10 @@
 
 - `RedissonRateLimiter.release()` 호출 후 허용되는 요청 수가 실제 허용 가능한 양에 미달 또는 초과하는 버그 해결
 
-  [![bug](https://img.shields.io/github/issues/detail/label/redisson/redisson/7342)](https://github.com/redisson/redisson/issues/7342)
-  [![Issue #7342](https://img.shields.io/github/issues/detail/state/redisson/redisson/7342)](https://github.com/redisson/redisson/issues/7342)
-  [![PR #7343](https://img.shields.io/github/pulls/detail/state/redisson/redisson/7343)](https://github.com/redisson/redisson/pull/7343)
-  [![milestone](https://img.shields.io/github/issues/detail/milestone/redisson/redisson/7342)](https://github.com/redisson/redisson/milestone/212)
+  [![bug](https://img.shields.io/badge/label-bug-d73a4a)](https://github.com/redisson/redisson/issues/7342)
+  [![Issue #7342](https://img.shields.io/badge/issue_%237342-closed-8957e5)](https://github.com/redisson/redisson/issues/7342)
+  [![PR #7343](https://img.shields.io/badge/PR_%237343-merged-8957e5)](https://github.com/redisson/redisson/pull/7343)
+  [![milestone](https://img.shields.io/badge/milestone-4.8.0-blue)](https://github.com/redisson/redisson/milestone/212)
   
 ### Education
 - 동국대학교 – Computer Science & Engineering (2019.3 ~ 2026.02)  
