@@ -3,9 +3,10 @@
 
 ### Open Source Contributions
 
-**[Redisson](https://github.com/redisson/redisson)**
+[![Redisson](https://github-readme-stats.vercel.app/api/pin/?username=redisson&repo=redisson&theme=default)](https://github.com/redisson/redisson)
 
 - `RedissonRateLimiter.release()` 호출 후 허용되는 요청 수가 실제 허용 가능한 양에 미달 또는 초과하는 버그 해결
+
 
   [![bug](https://img.shields.io/badge/label-bug-d73a4a)](https://github.com/redisson/redisson/issues/7342)
   [![Issue #7342](https://img.shields.io/badge/issue_%237342-closed-8957e5)](https://github.com/redisson/redisson/issues/7342)
